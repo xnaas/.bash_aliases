@@ -1,5 +1,6 @@
 alias l="exa -al"
 alias cat="bat"
+alias ccat="/usr/bin/cat"
 alias dcu="docker-compose up -d --no-deps --build --remove-orphans"
 alias size="du -mh --max-depth 1 | sort -rh"
 alias cd..="cd .."
